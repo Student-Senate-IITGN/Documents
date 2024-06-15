@@ -1,0 +1,22 @@
+\contentsline {section}{\numberline {1}Preamble}{2}{section.1}%
+\contentsline {section}{\numberline {2}Oath}{2}{section.2}%
+\contentsline {section}{\numberline {3}Student Senate}{2}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Student Council}{3}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Roles and Responsibilities of the Student Council}{3}{subsubsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.2}Senators}{5}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Roles and Responsibilities of Senators}{6}{subsubsection.3.2.1}%
+\contentsline {section}{\numberline {4}Standing Committees of the Student Senate}{7}{section.4}%
+\contentsline {section}{\numberline {5}Structure of the Student Senate Meetings}{7}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Student Senate Meetings}{7}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Emergency/Vacation Senate Meetings}{9}{subsection.5.2}%
+\contentsline {section}{\numberline {6}Resignation or Removal of an Elected Official}{9}{section.6}%
+\contentsline {section}{\numberline {7}Groups Recognized by the Student Senate}{10}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Hobby Groups}{10}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Clubs}{11}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Independent Groups}{11}{subsection.7.3}%
+\contentsline {section}{\numberline {8}Other Elected Positions}{12}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Class Representative}{12}{subsection.8.1}%
+\contentsline {section}{\numberline {9}Amendments}{12}{section.9}%
+\contentsline {section}{\numberline {10}Proposals}{12}{section.10}%
+\contentsline {section}{\numberline {11}Resolutions}{13}{section.11}%
+\contentsline {section}{\numberline {12}Other Documents}{13}{section.12}%
